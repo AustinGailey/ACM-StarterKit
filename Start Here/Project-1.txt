@@ -27,3 +27,5 @@ Once you have practiced it a few times, you will find that it is
 far easier than it looks.  Next we will learn the basic functions of Git.
 
 ***************************************************************************
+Next Project		Commit,Push,Pull,and Fetch
+***************************************************************************
