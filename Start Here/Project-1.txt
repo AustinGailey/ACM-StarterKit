@@ -1,0 +1,29 @@
+***************************************************************************
+Project-1		Creating a Repository
+***************************************************************************
+
+To get started, click on the green 'clone or download' button at the top 
+right of the repository.
+
+Copy the link to the repository.
+
+Then, open a version control program.  I will be referencing SourceTree 
+however there are many available.
+
+Click on clone, then enter the copied link in the first box, otherwise 
+known as the Source Path.
+
+For the Destination Path, create a folder you would like to save the 
+repository in.
+
+Next, click clone to create your first repository!
+
+***************************************************************************
+
+This clone folder will be where the source code is saved.  In the future,
+we will discuss how you can change the files in these folders.
+
+Once you have practiced it a few times, you will find that it is
+far easier than it looks.  Next we will learn the basic functions of Git.
+
+***************************************************************************
