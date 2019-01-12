@@ -10,6 +10,18 @@ double check if these are the changes you wish to make.
 *Click on the Commit button at the top left of the screen.
 
 
+This brings you to a new page.  This is your final review of the files you 
+are going to change.
+
+
+*Enter a description for your changes in the box at the bottom
+
+
+When you are more familiar with the way GitHub works, you may choose to 
+select the 'Push Changes Immediately' box.
+
+*For now, just click commit
+
 
 
 
