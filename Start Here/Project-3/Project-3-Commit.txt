@@ -1,0 +1,18 @@
+***************************************************************************
+Project 3			Commit
+***************************************************************************
+
+
+Now that your file is staged, it it time to commit those changes to the 
+repository.  This not the final step to share your changes.  It is a way to 
+double check if these are the changes you wish to make.
+
+*Click on the Commit button at the top left of the screen.
+
+
+
+
+
+***************************************************************************
+Next Project			Push
+***************************************************************************

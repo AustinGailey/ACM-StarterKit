@@ -1,0 +1,48 @@
+***************************************************************************
+Project 2			Staging
+***************************************************************************
+
+
+GitHub is simple once you understand a few basic commmands, but I will first 
+explain the basic function of version control.
+
+Version control software allows a group of individuals to work together on 
+the same project, similar to Google Docs.  The difference between the two,
+is that Github requires that you first 'stage' your changes before adding
+the changes to the group's project.
+
+Github manages versions by utilizing several useful commands which 
+is best explained with an example.
+
+
+*To begin, open 'Commit-Test.txt' found in the same folder as this file.
+
+
+This will appear to be an empty text file.  
+Enter any text, for example, your name.
+
+
+*Save and close the file and look at the SourceTree staging area on the
+*bottom half of the page.  You will notice that 'Commit-Test.txt' appears
+*in the unstaged file area.
+
+
+At the top right of the Unstaged files box, there are two buttons.
+
+'Stage All' will stage all the changed files in your directory.
+
+To maintain more control over which files are updated, I prefer
+to select indiviudal files and use 'Stage Selected'.
+
+
+*Highlight Commit-Test.txt and click 'Stage Selected'.
+
+
+You will notice that the file now appears in the 'Staged' box.  This is now
+ready to be commited to the GitHub repository.
+
+
+
+***************************************************************************
+Next Project			Commit
+***************************************************************************
