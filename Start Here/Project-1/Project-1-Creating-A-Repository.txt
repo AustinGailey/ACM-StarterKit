@@ -2,31 +2,23 @@
 Project-1		Creating a Repository
 ***************************************************************************
 
-Congratulations!  You have taken the first step toward becoming a pro
-at developing group projects.  Let's get right into it.
+To get started, click on the green 'clone or download' button at the top 
+right of the repository on the landing page.
 
+Copy the link to the repository.
 
-*To get started, click on the green 'clone or download' button at the top 
-*right of the repository on the landing page.
+Then, open a version control program.  I will be referencing SourceTree 
+however there are many available.
 
+In SourceTree, click on clone, then enter the copied link in the first box, 
+otherwise known as the Source Path.
 
-*Copy the link to the repository.
+For the Destination Path, create a folder you would like to save the 
+repository in.
 
+Next, click clone to create your first repository!
 
-*Then, open a version control program.  I will be referencing SourceTree 
-*however there are many available.
-
-
-*In SourceTree, click on clone, then enter the copied link in the first box, 
-*otherwise known as the Source Path.
-
-
-*For the Destination Path, create a folder you would like to save the 
-*repository in.
-
-
-*Next, click clone to create your first repository!
-
+***************************************************************************
 
 This clone folder will be where the source code is saved.  In the future,
 we will discuss how you can change the files in these folders.
