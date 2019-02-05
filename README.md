@@ -4,7 +4,7 @@ This is a resource for learning the basic commands of Git.  This was one of the 
 
 What you are reading right now is known as a README file and its purpose is exactly that.  It should provide easy to read documentation on the software that is contained within the repository.  I am leaving the default markdown below so you can see what types of documentation can be included in the file.
 
-When you are ready, proceed to Project 1 and open the text file to get started!
+When you are ready, proceed to the 'Start Here' directory and open the text file for Project 1 to get started!
 
 
 --------------------------------------------------------------------------------------------------------------------------------
